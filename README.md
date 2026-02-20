@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++           4 hrs 6 mins          █████████████████▒░░░░░░░   69.57 %
-QML           1 hr 27 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.84 %
-CMake         18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Lua           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-gitconfig     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
