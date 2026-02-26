@@ -3,7 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++     3 hrs 46 mins         ██████████████████▓░░░░░░   74.17 %
+Lua     1 hr 2 mins           █████░░░░░░░░░░░░░░░░░░░░   20.45 %
+QML     8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+JSON    7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+CMake   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
